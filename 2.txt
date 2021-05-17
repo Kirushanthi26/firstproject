@@ -1,1 +1,3 @@
 This is 2nd file after modification.
+
+learning push master part and update git repository 
