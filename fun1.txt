@@ -1,1 +1,2 @@
 learn about ignoring files in git 
+funny fuuny git 
